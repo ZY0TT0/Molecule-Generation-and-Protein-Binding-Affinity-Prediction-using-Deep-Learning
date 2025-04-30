@@ -1,4 +1,5 @@
-Dataset Link: This project is a three-stage AI-powered drug discovery pipeline that:
+Dataset Link:https://drive.google.com/file/d/1XtlIEYkZZygrfzHeIIuUU8_tfLdbPzv0/view
+This project is a three-stage AI-powered drug discovery pipeline that:
 1.	Generates novel drug-like molecules conditioned on protein sequences (Deep Learning).
 2.	Predicts binding affinity between molecules and proteins (Machine Learning).
 3.	Deploys an interactive web app for real-time predictions (Streamlit).
