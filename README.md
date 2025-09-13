@@ -4,7 +4,7 @@ This project is a three-stage AI-powered drug discovery pipeline that:
 2.	Predicts binding affinity between molecules and proteins (Machine Learning).
 3.	Deploys an interactive web app for real-time predictions (Streamlit).
 ________________________________________
-1. Molecule Generation with Deep Learning (1st Code)
+1. Molecule Generation with Deep Learning (mol.py)
 Objective
 •	Generate novel SMILES strings (drug-like molecules) that are likely to bind to a given protein target.
 Key Components
